@@ -1,6 +1,6 @@
 # TSA_23_24
 
-Estatísticas da Primeira Liga 
+Primeira Liga 
 
 Neste Projeto vamos fazer a Primeira Liga Portuguesa 
 
